@@ -1,3 +1,3 @@
 def print
-print("Hello, World!")
+print("HoHoHo???, World!")
 
