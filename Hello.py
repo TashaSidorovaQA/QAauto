@@ -1,3 +1,3 @@
 def print
-print("HoHoHo, World!")
+print("Goodmorning, World!")
 
